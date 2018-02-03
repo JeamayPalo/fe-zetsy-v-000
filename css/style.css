@@ -30,7 +30,9 @@ header a {
 	text-decoration: none;
 }
 
-a 
+a {
+	background: transparent;
+}
 
 h1 {
 	display: block;
